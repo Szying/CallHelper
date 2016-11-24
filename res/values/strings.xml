@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CallHelper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_sms">傳簡訊</string>
+    <string name="call_phone">打電話</string>
+    <string name="view_mode">顯示模式</string>
+    <string name="photo">照片</string>
+    <string name="sms_sent">簡訊已送出到：</string>
+    <string name="send_to">發簡訊給：</string>
+    <string name="fail">失敗。</string>
+    <string name="title_activity_sms_edit">SmsEditActivity</string>
+	<string name="smsinput">輸入簡訊</string>
+	<string name="send">傳送</string>
+	<string name="cancel">取消</string>
+	<string name="cannot_empty">簡訊不能為空。</string>
+	<string name="ok">確定</string>
+	<string name="are_you_sure">確定要傳簡訊給</string>
+	<string name="are_you_sure_call">確定要撥電話給</string>
+	<string name="idle">待機中</string>
+	<string name="offhook">通話中</string>
+	<string name="ringing">響鈴中</string>
+	<string name="block">非聯絡人靜音已啟動</string>
+	<string name="unblock">非聯絡人靜音已關閉</string>
+</resources>
